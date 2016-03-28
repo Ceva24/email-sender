@@ -1,7 +1,7 @@
 JavaMail API Example
 =============
 
-An example of sending emails via SMTP over SSL using the JavaMail API.
+An example of sending email via SMTP over SSL using the JavaMail API.
 
 Introduction
 ------------
